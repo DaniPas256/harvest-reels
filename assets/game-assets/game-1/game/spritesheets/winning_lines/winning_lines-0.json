@@ -1,0 +1,139 @@
+{"frames": {
+
+"winning_lines/1_00000/00000_3":
+{
+	"frame": {"x":1,"y":3460,"w":1828,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":70,"w":1828,"h":332},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"winning_lines/1_00000/00000_4":
+{
+	"frame": {"x":1831,"y":1730,"w":1828,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":70,"w":1828,"h":332},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"winning_lines/1_00000/00000_5":
+{
+	"frame": {"x":1831,"y":2064,"w":1828,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":70,"w":1828,"h":332},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"winning_lines/2_01210/01210_3":
+{
+	"frame": {"x":1,"y":1746,"w":1828,"h":855},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":88,"w":1828,"h":855},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"winning_lines/2_01210/01210_4":
+{
+	"frame": {"x":1831,"y":873,"w":1828,"h":855},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":88,"w":1828,"h":855},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"winning_lines/2_01210/01210_5":
+{
+	"frame": {"x":1,"y":2603,"w":1828,"h":855},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":88,"w":1828,"h":855},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"winning_lines/3_11111/11111_3":
+{
+	"frame": {"x":3661,"y":1,"w":1828,"h":328},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":342,"w":1828,"h":328},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"winning_lines/3_11111/11111_4":
+{
+	"frame": {"x":1831,"y":3397,"w":1828,"h":328},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":342,"w":1828,"h":328},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"winning_lines/3_11111/11111_5":
+{
+	"frame": {"x":3661,"y":1831,"w":1828,"h":328},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":342,"w":1828,"h":328},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"winning_lines/4_21012/21012_3":
+{
+	"frame": {"x":1,"y":874,"w":1828,"h":870},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":72,"w":1828,"h":870},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"winning_lines/4_21012/21012_4":
+{
+	"frame": {"x":1831,"y":1,"w":1828,"h":870},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":72,"w":1828,"h":870},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"winning_lines/4_21012/21012_5":
+{
+	"frame": {"x":1,"y":1,"w":1828,"h":871},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":72,"w":1828,"h":871},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"winning_lines/5_22222/22222_3":
+{
+	"frame": {"x":1831,"y":2398,"w":1828,"h":331},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":612,"w":1828,"h":331},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"winning_lines/5_22222/22222_4":
+{
+	"frame": {"x":1831,"y":2731,"w":1828,"h":331},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":612,"w":1828,"h":331},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"winning_lines/5_22222/22222_5":
+{
+	"frame": {"x":1831,"y":3064,"w":1828,"h":331},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":612,"w":1828,"h":331},
+	"sourceSize": {"w":1920,"h":1080}
+}},
+"animations": {
+	"winning_lines/1_00000/00000": ["winning_lines/1_00000/00000_3","winning_lines/1_00000/00000_4","winning_lines/1_00000/00000_5"],
+	"winning_lines/2_01210/01210": ["winning_lines/2_01210/01210_3","winning_lines/2_01210/01210_4","winning_lines/2_01210/01210_5"],
+	"winning_lines/3_11111/11111": ["winning_lines/3_11111/11111_3","winning_lines/3_11111/11111_4","winning_lines/3_11111/11111_5"],
+	"winning_lines/4_21012/21012": ["winning_lines/4_21012/21012_3","winning_lines/4_21012/21012_4","winning_lines/4_21012/21012_5"],
+	"winning_lines/5_22222/22222": ["winning_lines/5_22222/22222_3","winning_lines/5_22222/22222_4","winning_lines/5_22222/22222_5"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "winning_lines-0.png",
+	"format": "RGBA8888",
+	"size": {"w":3990,"h":3793},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5ff908b24ba546ba2eb2741e7b8cc3c1:cce67d1ea19b797800430e622ac698f8:d3a4c2780a74aa81f3220078e224562f$"
+}
+}

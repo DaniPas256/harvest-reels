@@ -1,0 +1,139 @@
+{"frames": {
+
+"winning_lines/1_00000/00000_3":
+{
+	"frame": {"x":1,"y":1738,"w":914,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":34,"w":914,"h":167},
+	"sourceSize": {"w":960,"h":540}
+},
+"winning_lines/1_00000/00000_4":
+{
+	"frame": {"x":917,"y":869,"w":914,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":34,"w":914,"h":167},
+	"sourceSize": {"w":960,"h":540}
+},
+"winning_lines/1_00000/00000_5":
+{
+	"frame": {"x":917,"y":1038,"w":914,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":34,"w":914,"h":167},
+	"sourceSize": {"w":960,"h":540}
+},
+"winning_lines/2_01210/01210_3":
+{
+	"frame": {"x":1,"y":878,"w":914,"h":428},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":44,"w":914,"h":428},
+	"sourceSize": {"w":960,"h":540}
+},
+"winning_lines/2_01210/01210_4":
+{
+	"frame": {"x":917,"y":439,"w":914,"h":428},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":44,"w":914,"h":428},
+	"sourceSize": {"w":960,"h":540}
+},
+"winning_lines/2_01210/01210_5":
+{
+	"frame": {"x":1,"y":1308,"w":914,"h":428},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":44,"w":914,"h":428},
+	"sourceSize": {"w":960,"h":540}
+},
+"winning_lines/3_11111/11111_3":
+{
+	"frame": {"x":1833,"y":1,"w":914,"h":165},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":170,"w":914,"h":165},
+	"sourceSize": {"w":960,"h":540}
+},
+"winning_lines/3_11111/11111_4":
+{
+	"frame": {"x":917,"y":1714,"w":914,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":170,"w":914,"h":165},
+	"sourceSize": {"w":960,"h":540}
+},
+"winning_lines/3_11111/11111_5":
+{
+	"frame": {"x":1833,"y":917,"w":914,"h":165},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":170,"w":914,"h":165},
+	"sourceSize": {"w":960,"h":540}
+},
+"winning_lines/4_21012/21012_3":
+{
+	"frame": {"x":1,"y":440,"w":914,"h":436},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":35,"w":914,"h":436},
+	"sourceSize": {"w":960,"h":540}
+},
+"winning_lines/4_21012/21012_4":
+{
+	"frame": {"x":917,"y":1,"w":914,"h":436},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":35,"w":914,"h":436},
+	"sourceSize": {"w":960,"h":540}
+},
+"winning_lines/4_21012/21012_5":
+{
+	"frame": {"x":1,"y":1,"w":914,"h":437},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":35,"w":914,"h":437},
+	"sourceSize": {"w":960,"h":540}
+},
+"winning_lines/5_22222/22222_3":
+{
+	"frame": {"x":917,"y":1207,"w":914,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":305,"w":914,"h":167},
+	"sourceSize": {"w":960,"h":540}
+},
+"winning_lines/5_22222/22222_4":
+{
+	"frame": {"x":917,"y":1376,"w":914,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":305,"w":914,"h":167},
+	"sourceSize": {"w":960,"h":540}
+},
+"winning_lines/5_22222/22222_5":
+{
+	"frame": {"x":917,"y":1545,"w":914,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":305,"w":914,"h":167},
+	"sourceSize": {"w":960,"h":540}
+}},
+"animations": {
+	"winning_lines/1_00000/00000": ["winning_lines/1_00000/00000_3","winning_lines/1_00000/00000_4","winning_lines/1_00000/00000_5"],
+	"winning_lines/2_01210/01210": ["winning_lines/2_01210/01210_3","winning_lines/2_01210/01210_4","winning_lines/2_01210/01210_5"],
+	"winning_lines/3_11111/11111": ["winning_lines/3_11111/11111_3","winning_lines/3_11111/11111_4","winning_lines/3_11111/11111_5"],
+	"winning_lines/4_21012/21012": ["winning_lines/4_21012/21012_3","winning_lines/4_21012/21012_4","winning_lines/4_21012/21012_5"],
+	"winning_lines/5_22222/22222": ["winning_lines/5_22222/22222_3","winning_lines/5_22222/22222_4","winning_lines/5_22222/22222_5"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "winning_lines-0@0.5.png",
+	"format": "RGBA8888",
+	"size": {"w":1999,"h":1906},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:5ff908b24ba546ba2eb2741e7b8cc3c1:cce67d1ea19b797800430e622ac698f8:d3a4c2780a74aa81f3220078e224562f$"
+}
+}

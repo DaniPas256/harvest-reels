@@ -1,0 +1,100 @@
+{"frames": {
+
+"game_buttons/arrow_left":
+{
+	"frame": {"x":1,"y":468,"w":89,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":16,"w":89,"h":68},
+	"sourceSize": {"w":100,"h":100}
+},
+"game_buttons/arrow_right":
+{
+	"frame": {"x":1,"y":538,"w":89,"h":68},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":16,"w":89,"h":68},
+	"sourceSize": {"w":100,"h":100}
+},
+"game_buttons/decrease_bet":
+{
+	"frame": {"x":103,"y":367,"w":24,"h":11},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":24,"h":11},
+	"sourceSize": {"w":25,"h":13}
+},
+"game_buttons/exit":
+{
+	"frame": {"x":1,"y":367,"w":100,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":10,"w":100,"h":99},
+	"sourceSize": {"w":125,"h":126}
+},
+"game_buttons/help":
+{
+	"frame": {"x":71,"y":538,"w":46,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":46,"h":42},
+	"sourceSize": {"w":50,"h":46}
+},
+"game_buttons/increase_bet":
+{
+	"frame": {"x":92,"y":468,"w":24,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":24,"h":23},
+	"sourceSize": {"w":25,"h":23}
+},
+"game_buttons/start":
+{
+	"frame": {"x":1,"y":1,"w":120,"h":117},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":12,"w":120,"h":117},
+	"sourceSize": {"w":150,"h":150}
+},
+"game_buttons/stop":
+{
+	"frame": {"x":1,"y":123,"w":120,"h":117},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":120,"h":117},
+	"sourceSize": {"w":150,"h":150}
+},
+"game_buttons/stop_pressed":
+{
+	"frame": {"x":1,"y":123,"w":120,"h":117},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":120,"h":117},
+	"sourceSize": {"w":150,"h":150}
+},
+"game_buttons/take":
+{
+	"frame": {"x":1,"y":245,"w":120,"h":117},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":12,"w":120,"h":117},
+	"sourceSize": {"w":150,"h":150}
+},
+"game_buttons/times":
+{
+	"frame": {"x":71,"y":582,"w":40,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":40,"h":41},
+	"sourceSize": {"w":50,"h":50}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "game_buttons-0@0.5.png",
+	"format": "RGBA8888",
+	"size": {"w":119,"h":628},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:6905bf480cec45beb2762e0dd1bb0299:52dbc4e9edb96bb8ff593b394ae0adfb:c041bb71589ca5fe0f4de7504a9bb7bb$"
+}
+}
